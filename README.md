@@ -10,7 +10,7 @@ This is a .NET Core console application that schedules events for maximum time e
 - Ensure no overlapping events are attended.
 
 ## Requirements
-- **.NET Core 3.1 or later**
+- **.NET Core 8**
 - **C#**
 
 ## Installation
